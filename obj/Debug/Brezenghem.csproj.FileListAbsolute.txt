@@ -1,0 +1,9 @@
+D:\Veronika\Brezenghem\Brezenghem\bin\Debug\Brezenghem.exe.config
+D:\Veronika\Brezenghem\Brezenghem\bin\Debug\Brezenghem.exe
+D:\Veronika\Brezenghem\Brezenghem\bin\Debug\Brezenghem.pdb
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.csproj.AssemblyReference.cache
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.Properties.Resources.resources
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.csproj.GenerateResource.cache
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.csproj.CoreCompileInputs.cache
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.exe
+D:\Veronika\Brezenghem\Brezenghem\obj\Debug\Brezenghem.pdb
